@@ -14,5 +14,5 @@ Well, Tetris is nothing we have to explain. Everybody knows this little game whe
 
 ## License and Contact
 
-This project is license under the MIT license, wich can be found [here](https://github.com/FOLF-projects/tetris/blob/main/LICENSE)
+This project is license under the MIT license, wich can be found [here](https://github.com/FOLF-projects/tetris/blob/main/LICENSE). 
 If you want to contact us, please do so on our [Discord server](https://discord.gg/beKQ7jgRp).
